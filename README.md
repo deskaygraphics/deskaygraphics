@@ -3,6 +3,11 @@
 ## Hi there 👋
 ### I am Desmond Kangah
 
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswqs)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+
 **deskaygraphics/deskaygraphics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
