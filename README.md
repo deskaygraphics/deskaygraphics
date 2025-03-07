@@ -13,7 +13,7 @@
 - 💬 Ask me about **Machine Learning, GIS, and Remote Sensing**
 - 👯 I’m looking to collaborate on **Any GIS and Surveying Project**
 - 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
-- - 🌍 [My Portfolio](https://deskaygraphics.github.io/)
+- 🌍 [My Portfolio](https://deskaygraphics.github.io/)
 - 📫 Reach me at **deskaygraphics@gmail.com | desmondkangah98@gmail**
 
  
