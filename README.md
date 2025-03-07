@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Any GIS and Surveying Project**
 
 - 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
-- - 🌍 [My Portfolio](https://yourwebsite.com)  
+- - 🌍 [My Portfolio](https://deskaygraphics.github.io/)  
 
 - 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
  
