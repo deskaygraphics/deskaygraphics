@@ -17,13 +17,21 @@
 
 ### 🛠️ Technologies & Tools  
 
+### 🛠️ Technologies & Tools  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIS-1E88E5?style=for-the-badge&logo=esri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote%20Sensing-FF0000?style=for-the-badge&logo=nasa&logoColor=white" />
+  <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Documentation" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Documentation" /></a>
+  <a href="https://developers.google.com/earth-engine/"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine Documentation" /></a>
+  <a href="https://pro.arcgis.com/en/pro-app/latest/help/main/welcome-to-the-arcgis-pro-help.htm"><img src="https://img.shields.io/badge/GIS-1E88E5?style=for-the-badge&logo=esri&logoColor=white" alt="GIS Documentation" /></a>
+  <a href="https://earthdata.nasa.gov/"><img src="https://img.shields.io/badge/Remote%20Sensing-FF0000?style=for-the-badge&logo=nasa&logoColor=white" alt="Remote Sensing (NASA Earthdata)" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Documentation" /></a>
+  <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Documentation" /></a>
+  <a href="https://www.mathworks.com/help/matlab/"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB Documentation" /></a>
+  <a href="https://www.latex-project.org/help/documentation/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Documentation" /></a>
+  <a href="https://wiki.lyx.org/Documentation/Tutorials"><img src="https://img.shields.io/badge/LyX-4E4E4E?style=for-the-badge&logo=lyx&logoColor=white" alt="LyX Documentation" /></a>
 </p>
+
 
 
 
