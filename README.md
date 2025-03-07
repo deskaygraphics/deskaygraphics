@@ -64,4 +64,21 @@
 - **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
 - **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
----
+### Hi there, I'm Desmond Kangah 👋  
+🔭 I’m currently working on **Geospatial AI & Remote Sensing**  
+🌱 I’m learning **Deep Learning & Cloud Computing**  
+💬 Ask me about **Machine Learning, GIS, and Remote Sensing**  
+📫 Reach me at **deskaygraphics@gmail.com**  
+🌍 [My Portfolio](https://yourwebsite.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=deskaygraphics&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deskaygraphics&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deskaygraphics&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deskaygraphics&theme=tokyonight)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+
