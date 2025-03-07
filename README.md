@@ -7,18 +7,15 @@
 
 - 🔭 I’m currently working on **Land Subsidence using PygmtSAR, ISCE2, Mintpy, SARvey Tools**
 
-- 🌱 I’m currently learning **Masters In Civil Engineering with Concentration in Geomatics  and Geodesy**
-- 🔭 I’m currently working on **Geospatial AI & Remote Sensing**
+- 🌱 I’m currently pursuing **Masters In Civil Engineering with Concentration in Geomatics  and Geodesy**
+- 🔭 I’m currently learning more on **GeoAI & Remote Sensing**
 - 🌱 I’m learning **Deep Learning & Cloud Computing**
 - 💬 Ask me about **Machine Learning, GIS, and Remote Sensing**
-- 📫 Reach me at **deskaygraphics@gmail.com**
-
 - 👯 I’m looking to collaborate on **Any GIS and Surveying Project**
-
 - 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
-- - 🌍 [My Portfolio](https://deskaygraphics.github.io/)  
+- - 🌍 [My Portfolio](https://deskaygraphics.github.io/)
+- 📫 Reach me at **deskaygraphics@gmail.com | desmondkangah98@gmail**
 
-- 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
  
 
 ### 🛠️ Technologies & Tools I make use 24/7 
