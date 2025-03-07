@@ -16,11 +16,15 @@
 - 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
 
 ### 🛠️ Technologies & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![GIS](https://img.shields.io/badge/GIS-1E88E5?style=for-the-badge&logo=esri&logoColor=white)  
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-FF0000?style=for-the-badge&logo=nasa&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-1E88E5?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote%20Sensing-FF0000?style=for-the-badge&logo=nasa&logoColor=white" />
+</p>
+
 
 
   ### ***Geospatial Tools I Make Use of 24/7***
