@@ -8,10 +8,15 @@
 - 🔭 I’m currently working on **Land Subsidence using PygmtSAR, ISCE2, Mintpy, SARvey Tools**
 
 - 🌱 I’m currently learning **Masters In Civil Engineering with Concentration in Geomatics  and Geodesy**
+- 🔭 I’m currently working on **Geospatial AI & Remote Sensing**
+- 🌱 I’m learning **Deep Learning & Cloud Computing**
+- 💬 Ask me about **Machine Learning, GIS, and Remote Sensing**
+- 📫 Reach me at **deskaygraphics@gmail.com**
 
 - 👯 I’m looking to collaborate on **Any GIS and Surveying Project**
 
 - 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
+- - 🌍 [My Portfolio](https://yourwebsite.com)  
 
 - 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
  
@@ -64,14 +69,7 @@
 - **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
 - **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
-### Hi there, I'm Desmond Kangah 👋  
-🔭 I’m currently working on **Geospatial AI & Remote Sensing**  
-🌱 I’m learning **Deep Learning & Cloud Computing**  
-💬 Ask me about **Machine Learning, GIS, and Remote Sensing**  
-📫 Reach me at **deskaygraphics@gmail.com**  
-🌍 [My Portfolio](https://yourwebsite.com)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=deskaygraphics&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deskaygraphics&show_icons=true&theme=tokyonight)
 
