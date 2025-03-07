@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Desmond Kangah</h1>
 <h3 align="center">Currently a Master Student at Louisiana State University and Dreaming of Becoming a Geospatial Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangahdesmond&label=Profile%20views&color=0e75b6&style=flat" alt="kangahdesmond" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deskaygraphics&label=Profile%20views&color=0e75b6&style=flat" alt="kangahdesmond" /> </p>
 
 - 🔭 I’m currently working on **Land Subsidence using PygmtSAR, ISCE2, Mintpy, SARvey Tools**
 
