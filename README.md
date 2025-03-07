@@ -23,7 +23,7 @@
 
 ### 🛠️ Technologies & Tools I make use 24/7 
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Documentation" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Documentation" /></a>
   <a href="https://developers.google.com/earth-engine/"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine Documentation" /></a>
@@ -59,12 +59,9 @@
 <a href="https://www.youtube.com/@kangahacademictutors7154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 </p>
 
-### 🔥 Streak & Socials  
+### 🔥  Socials  
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-  </a>
   <a href="https://www.linkedin.com/in/desmond-kangah-629b9a27b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
