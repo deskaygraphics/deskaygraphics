@@ -14,10 +14,9 @@
 - 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
 
 - 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
+ 
 
-### 🛠️ Technologies & Tools  
-
-### 🛠️ Technologies & Tools  
+### 🛠️ Technologies & Tools I make use 24/7 
 
 <p align="center">
   <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Documentation" /></a>
